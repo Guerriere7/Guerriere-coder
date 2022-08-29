@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    width: 1300px;
+    font-family: Roboto;
+}
+
+#header {
+    width: 95%;
+    height: 200px;
+    align-items: center;
+    background-color: beige;
+}
+
+
+
+.caja_nav{
+    display: flex;
+    background-color: white;
+    margin: 5px;
+    padding: 5px;
+    width: 60px;
+    height: 30px;
+    display: inline;
+
+}
+
+.div_logo{
+    width: 30%;
+    height: 50px;
+    background-color: black;
+    font-family: Roboto;
+    color: blueviolet;
+}
+
+.nav {
+    background-color: aliceblue;
+    width: 95%;
+    height: 100px;
+    
+}
+
+
+.section {
+    background-color: brown;
+    width: 95%;
+    height: 300px;
+    align-items: center;
+}
+
+
+.footer {
+    background-color: blue;
+    width: 95%;
+    height: 200px;
+}
